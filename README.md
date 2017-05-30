@@ -9,7 +9,7 @@ A lively children’s game intended to teach toddlers the alphabet. Its colourfu
 
 * [Corona SDK](https://coronalabs.com/) - SDK used 
 * [Lua](https://www.lua.org/) - Language used
-* [Graphics](http://kenney.nl/assets/letter-tiles) - Graphics
+* [Kenney](http://kenney.nl/assets/letter-tiles) - Graphics
 * [Photoshop](http://www.adobe.com/products/photoshop.html) - Graphics editing
 
 ## Credits
