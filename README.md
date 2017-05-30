@@ -12,9 +12,5 @@ A lively children’s game intended to teach toddlers the alphabet. Its colourfu
 * [Graphics](http://kenney.nl/assets/letter-tiles) - Graphics
 * [Photoshop](http://www.adobe.com/products/photoshop.html) - Graphics editing
 
-## History
-TODO: Write history
 ## Credits
-TODO: Write credits
-## License
-TODO: Write license
+Google images and UET Game Studio 
